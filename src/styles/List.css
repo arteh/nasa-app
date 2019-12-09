@@ -1,0 +1,15 @@
+.list-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border: 1px red solid;
+    margin: 10px;
+    padding: 10px;
+}
+
+.list-item {
+    border: 1px purple solid;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+} 
